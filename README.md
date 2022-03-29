@@ -10,4 +10,4 @@
 #### step 2 : Add file class in Folder Services - ex: TapService
 #### step 3 : IN the class TapService
 
-* Create config with method payment 
+> Create config with method payment 
