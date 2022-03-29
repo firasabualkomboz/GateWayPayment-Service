@@ -10,11 +10,9 @@
 ## How its work with this gateway ? 
 
 ### Step 1 :
-<<<<<<< HEAD
 > Create Services Folder **app/Services** after the add Class Service in Folder Sush as **TapService.php**
 ### step 2 : 
 > IN the class TapService Create config with method payment 
-
 (<?php
 
 namespace App\Services;
@@ -72,11 +70,3 @@ class TapPayment
 
 }
 )
-=======
-> Create Services Folder **app/http/Services** after the add Class Service in Folder Sush as **TapService.php**
-
-![image](https://user-images.githubusercontent.com/44317192/160690117-bafa44ec-a305-4036-828c-c97365319da3.png)
-
-### step 2 : 
-> IN the class TapService Create config with method payment 
->>>>>>> ec83862a30931c577aacd527092f483bfca8b613
