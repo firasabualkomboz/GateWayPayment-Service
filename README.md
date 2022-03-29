@@ -6,8 +6,7 @@
 
 ## How its work with this gateway ? 
 
-#### step 1 : Create Services Folder app/http/Services;
-#### step 2 : Add file class in Folder Services - ex: TapService
-#### step 3 : IN the class TapService
-
-> Create config with method payment 
+### Step 1 :
+> Create Services Folder **app/http/Services** after the add Class Service in Folder Sush as **TapService.php**
+### step 2 : 
+> IN the class TapService Create config with method payment 
