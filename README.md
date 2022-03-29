@@ -1,8 +1,11 @@
-# GateWayPayment-Service
+# GateWay PaymentService With Laravel FrameWork
 
-### 1 GateWay => Tap 
+- Tap 
+- My Fatoorah
+- Stripe 
+- Moyser 
 
-#### Tap Payment package for Laravel 
+### Integration With **Tap GateWay Payment**  
 
 ## How its work with this gateway ? 
 
