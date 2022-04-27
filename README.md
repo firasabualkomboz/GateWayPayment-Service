@@ -83,8 +83,8 @@ class TapPayment
 
 namespace App\http\Controller;
 
-use GuzzleHttp\Client;
-use GuzzleHttp\Psr7\Request;
+use App\Http\Services\TapServices;
+use Illuminate\Http\Request;
 
 class actionController
 {
