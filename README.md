@@ -14,6 +14,8 @@
 ### step 2 : 
 > IN the class TapService Create config with method payment 
 
+```
+
 (<?php
 
 namespace App\Services;
@@ -71,3 +73,4 @@ class TapPayment
 
 }
 )
+```
