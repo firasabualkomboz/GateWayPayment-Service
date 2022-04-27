@@ -90,21 +90,32 @@ class actionController
 {
 
 
-    private $base_url;
+    private $tap;
 
-    public function __construct(Client $request_client)
+    public function __construct(TapServices $tap)
     {
-
+        $this->tap = $tap;
     }
 
     public function checkout()
     {
-
+        /*
+        * you need to check your document gateway payment to add a array or POST checkout/Charge 
+        * and use the service to run the action 
+        */
+        $data = [];
+        retun $this->tap->sendPayment($data);
     }
 
-
+    /*
+    * Dont forget you callBack Function
+    */
 
 
 }
 
 ```
+
+### Note : Next Step Under processing
+> 
+
