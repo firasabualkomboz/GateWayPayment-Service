@@ -74,3 +74,37 @@ class TapPayment
 }
 
 ```
+### step 3 : 
+> IN the Controller yourController Create action function/CheckoutFunction To Use this Servcies
+
+```
+
+<?php
+
+namespace App\http\Controller;
+
+use GuzzleHttp\Client;
+use GuzzleHttp\Psr7\Request;
+
+class actionController
+{
+
+
+    private $base_url;
+
+    public function __construct(Client $request_client)
+    {
+
+    }
+
+    public function checkout()
+    {
+
+    }
+
+
+
+
+}
+
+```
