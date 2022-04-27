@@ -13,6 +13,7 @@
 > Create Services Folder **app/Services** after the add Class Service in Folder Sush as **TapService.php**
 ### step 2 : 
 > IN the class TapService Create config with method payment 
+
 (<?php
 
 namespace App\Services;
