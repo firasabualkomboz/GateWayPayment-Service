@@ -77,7 +77,7 @@ class TapPayment
 ### step 3 : 
 > IN the Controller yourController Create action function/CheckoutFunction To Use this Servcies
 
-```
+``` php
 
 <?php
 
